@@ -1,7 +1,7 @@
-# Snapclima
+m# Snapclima
 
 ### Programa desenvolvido em HTML, CSS e JavaScript, utilizando a IDE Visual Studio Code.
-### Busca apresentar dados reais ao usuário, baseando-se em sua localização atual ou de uma região qualquer, através de uma API da OpenWeather.
+### Busca apresentar dados de uma API real ao usuário, baseando-se em sua localização atual ou de uma região informada.
 
 ##  Link para acesso: https://marcio-msf.github.io/snapclima/
 
