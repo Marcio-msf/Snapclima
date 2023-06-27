@@ -5,5 +5,5 @@ m# Snapclima
 
 ##  Link para acesso: https://marcio-msf.github.io/snapclima/
 
-#### API encontrada em https://openweathermap.org/api
+#### API utilizada https://openweathermap.org/api
 #### Instrututor Breno Cupertino
