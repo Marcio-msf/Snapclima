@@ -1,4 +1,4 @@
-m# Snapclima
+# Snapclima
 
 ### Programa desenvolvido em HTML, CSS e JavaScript, utilizando a IDE Visual Studio Code.
 ### Busca apresentar dados de uma API real ao usuário, baseando-se em sua localização atual ou de uma região informada.
